@@ -1,0 +1,39 @@
+body{
+    background-color: azure;
+    font-size: 16px;
+    font-family: Garamond, serif;
+    color:darkslategrey;
+}
+#header-nav {
+    background-color: navajowhite;
+    border-radius: 0;
+    border: 2px;
+    border-bottom-color: #Ffff;
+
+}
+
+.navbar-brand h1 {
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+    float: left;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+#nav-list {
+	text-align: center;
+	font-size: 25px;
+}
+ #chicken {
+ 	background-color: #d9edf7;
+    margin-left: 8.3%;
+
+ }
+
+ 
+
+
+
